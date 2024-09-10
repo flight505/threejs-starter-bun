@@ -27,13 +27,13 @@ Clone the repository:
 
     
 ```bash
-git clone https://github.com/j1m-ryan/threejs-starter-bun.git
+npx degit flight505/threejs-starter-bun new-project-folder
 ```
 
-Navigate to the repository directory:
+Navigate to the new project directory:
 
 ```bash
-cd threejs-starter-bun
+cd new-project-folder
 ```
 Install dependencies using Bun:
 
